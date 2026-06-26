@@ -1,5 +1,5 @@
 //Q1 sum of 2 numbers
-/*
+
 #include<iostream>
 using namespace std;
 int main()
@@ -12,7 +12,6 @@ int main()
     cout<<"sum="<<(a+b)<<"\n";
     return 0;
 }
-*/
 //Q2 find characters lowercase or uppercase
 
 #include<iostream>
